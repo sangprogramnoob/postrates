@@ -1,0 +1,8 @@
+{
+  "nik": "string",
+  "rate": 0,
+  "point_id": 0,
+  "photo_evidence": "base64",
+  "comment": "string",
+  "recommendation_id": 0
+}
