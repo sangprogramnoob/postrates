@@ -3,7 +3,10 @@
     "nik": "string",
     "rate": 0,
     "point_id": 0,
-    "photo_evidence": "base64",
+    "photo_evidence": {
+      "file_base": "base64",
+      "file_name": "file_name.png"
+    },
     "comment": "string",
     "recommendation_id": 0
   }
